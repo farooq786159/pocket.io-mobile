@@ -3,9 +3,9 @@
 </script>
 
 <template>
-<main  class=" h-full" style="background: #2a2a2a;">
+<main  class=" h-full" style="background:#2a2a2a;">
 
-    <div class="pl-10 pr-10  pt-80 mx-auto ">
+    <div class="pl-10 pr-10  pt-80 mx-auto  ">
     <section  class=" text-white ">
         <div class=" grid grid-cols-5 w-screen  md:w-auto  ">
                 <p class="col-span-1 w-full text-center border-gray-500 border-l-2 border-r-2 p-2  border-b-2  pt-20 h-48 "><span class="text-yellow-400 text-lg">+</span> <span class=" text-6xl pt-4">48</span> <span class=" text-xs block">Experts</span> </p>
