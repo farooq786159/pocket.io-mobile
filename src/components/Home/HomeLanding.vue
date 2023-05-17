@@ -3,8 +3,8 @@
 </script>
 
 <template>
-<main class="pl-20 pr-20">
-    <h1 class="font-bold text-5xl mt-10 ml-10 ">business <img src="../new_incons/horizontal-line-svgrepo-com.png" width="40" class="inline h-18" > challengers <span class="block ">through quality data.</span> 
+<main class="pl-20 pr-20 h-full mb-0  bg-gray-100" >
+    <h1 class="font-bold text-5xl  ml-10 ">business <img src="../new_incons/horizontal-line-svgrepo-com.png" width="40" class="inline h-18" > challengers <span class="block ">through quality data.</span> 
     </h1>
     <p class="mt-10 text-[14px] ml-10  mb-24">30+ years empowering business.</p>
     

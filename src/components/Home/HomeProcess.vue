@@ -5,10 +5,10 @@
 <template>
     
 <main >
-    <div class="w-full h-full bg-gray-400  "  >
+    <div class="w-full h-full bg-gray-400 "  >
     <!-- <img  alt="" class="w-full h-full"/>     -->
         <section class=" text-white   ">
-                       <div class="md:flex justify-between  mt-10 mb-2">
+                       <div class="md:flex justify-between   mb-2">
                 <h1 class="font-bold text-8xl mt-12 "> process </h1>
                 <p class=" text-xs w-2/12 mt-5"> farooqLorem ipsum dolor sit amet conse  ctetur, adipisicing elit. Est sit quos voluptatum <span class="block mt-5 mr-2">met, cum labore quisquam totam illum voluptatem corporis, saepe, odit laborum culpa consectetur.</span> </p>
             </div>

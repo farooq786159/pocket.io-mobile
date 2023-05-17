@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <main class=" bg-gray-300 w-full pl-20 pr-20 text-gray-900 ">    
+    <main class=" w-full pl-20 pr-20 text-gray-900 " style="background: #c4c4c4;">    
         <h1 class="font-bold text-9xl  pl-5 pt-20">leadership</h1>
         <div class=" mt-10 grid grid-cols-5  ml-52 pb-20 ">
             <div class="text-[10px]  col-span-2 mt-6 font-semibold"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem voluptate odit fugiat modi, vitae
@@ -85,8 +85,8 @@
         </main>
         <section class=" mt-60 mx-auto pl-20 pr-20">
         <article class=" grid grid-cols-11 mb-24" >
-
-                <div class="text-[32px] col-start-3 col-span-7 font-bold ml-8 pb-11">
+            <img src="../icons/lines2.png" width="15"  >
+                <div class="text-[32px] col-start-3 col-span-7 font-bold ml-8 pb-11" >
                     <p> We're challengers and problem solvers.
                         See what this amazing team is capable of.
                     </p>

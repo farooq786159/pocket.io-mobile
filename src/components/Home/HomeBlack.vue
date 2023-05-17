@@ -3,8 +3,8 @@
 </script>
 
 <template>
-<main  class=" bg-gray-600 h-full ">
-    
+<main  class=" h-full" style="background: #2a2a2a;">
+
     <div class="pl-10 pr-10  pt-80 mx-auto ">
     <section  class=" text-white ">
         <div class=" grid grid-cols-5 w-screen  md:w-auto  ">

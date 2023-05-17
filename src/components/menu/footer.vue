@@ -28,7 +28,7 @@
             </div>
         </article>
         <div class=" relative bg-gradient-to-br from-inherit  ">
-        <!-- <img src="../icons/gradient-footer.png" class=" ml-32  w-[900px] mx-auto text-center mb-0 h-[270px] absolute mix-blend-overlay bg-opacity-80" /> -->
+        
         <img src="../icons/gradientfooter.png" alt="" class="ml-32  w-[900px] mx-auto text-center mb-0 h-[270px] absolute mix-blend-overlay bg-opacity-80" >
         <article class="grid grid-cols-11  ">
 
