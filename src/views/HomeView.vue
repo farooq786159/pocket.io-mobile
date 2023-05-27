@@ -1,22 +1,21 @@
 <script setup>
-
-import HomeLanding from '../components/Home/HomeLanding.vue'
 import Nav from "../components/menu/Nav.vue"
-import HomeExperience from "../components/Home/Homeexperience.vue"
-import HomeProcess from "../components/Home/HomeProcess.vue"
-import HomeBlack from "../components/Home/HomeBlack.vue"
-
+import homeLanding from "../components/Home/homeLanding.vue";
+import homeSecond from "../components/Home/homeSecond.vue";
+import homeThird from "../components/Home/homeThird.vue";
+import homeForth from "../components/Home/homeForth.vue";
 import Footer from "../components/menu/footer.vue"
 </script>
 
 <template>
-  <Nav/>
-<HomeLanding/>
-<HomeProcess/>
-
-<HomeExperience/>
-
-<HomeBlack/>
-<Footer/>
+  <main class=" sm:text-center">
+      <Nav/>
+      <homeLanding/>
+      <homeSecond/>
+      <homeThird/>
+      <homeForth/>
+      <Footer/>
+  </main>
+  
 </template>
 

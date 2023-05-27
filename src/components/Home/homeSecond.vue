@@ -1,0 +1,58 @@
+<template>
+
+    <main class="  relative bg-gradient-to-br from-inherit text-white ">
+        <img src="../icons/pocketad.io_home_image1.png" class=" absolute h-full object-cover mix-blend-overlay "/>
+        <div class="w-full h-full " >
+
+            <p class=" text-xl mb-2  h-28 pt-20 ml-8  "> Fields of expertise</p>
+            <p class=" text-6xl pl-3 mt-10 text-white font-bold">Innovation </p>
+            <div class="mt-5 flex justify-between ml-14 mr-14 mb-2 ">
+                <img src="../new_incons/svgexport-22.png" alt="no img found" class=" h-16">
+                <p class=" text-6xl font-bold ">driven</p>
+            </div>
+            <p class=" text-6xl font-bold ml-14 mr-14">
+                design
+            </p>
+            
+            <p class="mt-10 text-[14px] ml-14 mr-16 ">
+                Services that matter are foreseen, bespoke and pertinent to people. 
+            </p>
+            <p class="mt-10 text-[14px] ml-14 mr-16 ">
+                They aren't produced by coincidence, nor are the offspring of ingenuity. Solutions that matter are the culmination of a refined  process of conception, maturation and execution. 
+            </p>
+
+            <div  class="w-[300px]  inline-flex  mt-10  mb-10  ml-14 mr-16  ">                
+                <p class="rounded-full py-2 px-5 text-center  bg-black  text-xs font-extrabold  " >What we do </p>     
+                <img src="../new_incons/svgexport-31.png" alt="" class="rounded-full bg-black p-3 w-10" >    
+            </div>
+            <div class="mr-4 ml-4 border-slate-50  border-2 py-3 px-3">
+                <p class=" text-3xl font-bold  text-center">Branding & Strategy</p>
+                <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-50 p-3 w-10" > 
+                <p class="mt-3 p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+            </div>
+            <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
+                <p class=" text-3xl font-bold  text-center">Traffic Generation</p>
+                <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-50 p-3 w-10" > 
+                <p class="mt-3 p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+            </div>
+            <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
+                <p class=" text-3xl font-bold  text-center">Engagement</p>
+                <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-50 p-3 w-10" > 
+                <p class="mt-3 p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+            </div>
+            <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
+                <p class=" text-3xl font-bold  text-center">Video Views</p>
+                <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-50 p-3 w-10" > 
+                <p class="mt-3 p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+            </div>
+            <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
+                <p class=" text-3xl font-bold  text-center">Lead Generation</p>
+                <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-50 p-3 w-10" > 
+                <p class="mt-3 p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+            </div>
+
+        </div>
+    </main>
+</template>
+<script setup>
+</script>

@@ -1,36 +1,39 @@
-<script setup>
-
-</script>
-
 <template>
-<main class="pl-20 pr-20 h-full mb-0  bg-gray-100" >
-    <h1 class="font-bold text-5xl  ml-10 ">business <img src="../new_incons/horizontal-line-svgrepo-com.png" width="40" class="inline h-18" > challengers <span class="block ">through quality data.</span> 
-    </h1>
-    <p class="mt-10 text-[14px] ml-10  mb-24">30+ years empowering business.</p>
-    
-    <div class="flex justify-between items-center  h-60 mx-auto mt-2 p-0 ">
-        <p class=" mt-10  mb-5 bg-black w-[25px] rounded-full h-[80px] p-0 ">
-        
-        <span class="text-white rotate-90 ">
-            <img src="../new_incons/svgexport-18.png" class="ml-1 mt-2 p-0"  alt="no img"> 
-            </span>
-           
-        </p>             
-    </div>
-    <article class="flex justify  space-x-28">    
-            <p class=" text-sm w-40 ml-10">How we think</p>  
-                    
-        <div class="w-1/2"  >
-            <p class="font-bold text-3xl mb-10 ml-20">We're challengers at the heart  </p>
-            <p class="text-2xl text-gray-400 mt-5 ml-20">Lorem ipsum dolor, sit amet cofoot nsectetur adipisicing elit. Ea deserunt nobis maxime corrupti perferendis fugit provident aspernatur at,eveniet exercitationem numquam 
-            </p>
-            <div  class="mt-5  w-[300px]  inline-flex pl-20  mb-24">                
-                <p class="rounded-full p-2 bg-yellow-400 text-gray-900 px-3 text-xs font-bold ">Dive into our culture</p>     
-                <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full bg-yellow-400 p-3">    
-            </div>
+    <main class="ml-8 mr-8 h-full">
+        <div class=" text-4xl font-bold  mt-14 mb-5 ">
+            Technology leaders through cutting-edge solutions.
         </div>
-            <img src="../new_incons/svgexport-21.png" alt="" class="object-cover pl-40  w-50 h-10 text-gray-600">    
-        </article>
-</main>    
-</template>
+        <p class=" mb-20">30+ years empowering business</p>
 
+        <div class="flex justify-between items-center  h-60 mx-auto  p-0 mb-8  ">
+            <p class="  mt-32  mb-5 bg-black w-[20px] rounded-full h-[70px] p-0 ">
+                <span class="text-white rotate-90 ">
+                    <img src="../new_incons/svgexport-18.png" class="ml-1 mt-2 p-0  h-12"  alt="no img"> 
+                </span>
+            </p>             
+        </div>
+        <div class="flex  justify-between" >
+            <p class="text-xs">How we think</p>
+            <img src="../new_incons/svgexport-21.png" alt="no img" class="h-10 mt-3">
+        </div>
+        <div class=" mt-5">
+            <p class=" text-4xl font-bold ml-5 mr-5">
+                We're challlengers at heart
+            </p>
+            <p class="ml-5 mr-5 mt-14 text-slate-400  font-bold text-lg">
+                PocketAd is a collective brain,
+                formed by a diverse group of
+                people who bring years of
+                experience, dedication and
+                everlasting devotion to 
+                digital craftsmanship.
+            </p>
+        </div>
+        <div  class="w-[300px]  inline-flex  mt-10  mb-24   ">                
+                <p class="rounded-full py-2 px-5 text-center  text-gray-900 text-xs font-extrabold  " style="background:#ffff05;">Dive into our culture</p>     
+                <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  p-3 w-10" style="background:#ffff05;">    
+        </div>
+    </main>
+</template>
+<script setup>
+</script>
