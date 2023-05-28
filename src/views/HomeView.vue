@@ -10,6 +10,7 @@ import Footer from "../components/menu/footer.vue"
 <template>
   <main class=" sm:text-center">
       <Nav/>
+      
       <homeLanding/>
       <homeSecond/>
       <homeThird/>
