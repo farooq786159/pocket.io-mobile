@@ -23,14 +23,14 @@
             </div>
 
             <div class="mt-10 mb-10" >
-                <p class=" text-7xl font-bold">leadership <span  class="block pl-44 ">team </span> </p>
+                <p class=" text-6xl font-bold">leadership <span  class="block pl-44 ">team </span> </p>
                 <p class="mt-10 px-2">We organize our work around practices, and each practice is led by skilled mentors that bring all of their experience and proficiency to their team.These are the referents that lead the way in our everyday craft.</p>
             </div>
             <div class="mb-10">
-                <p class="text-7xl font-bold ">Mohsin Kazmi</p>
+                <p class="text-6xl font-bold ">Mohsin Kazmi</p>
                 <P class="mt-10 px-2">Mohsin Kazmi is a consummate professional with an illustrious career spanning over two decades in the healthcare and financial consulting arenas. As the esteemed Co-founder and COO at Envoy Innovations, he spearheads cutting-edge initiatives to revolutionize specialty and home infusion pharmacies, elevating patient care and optimizing operational efficacy. With astute acumen in financial  planning, internal controls, and advisory services, Mohsin has garnered a formidable reputation for driving remarkable achievements at renowned organizations like Epic and Ernst & Young. As a visionary strategist, exemplary leader, and esteemed authority in healthcare and financial consulting, Mohsin Kazmi stands out as a trailblazer in his field.</P>
             </div>
-             <div class="flex justify-center mt-10 pb-20">
+             <div class="flex justify-center mt-10 pb-24 ">
                     <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full bg-white p-3 w-10 rotate-180" >   
                     <p class=" text-slate-50 ml-9">1/4</p>
                     <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full bg-white p-3 w-10 ml-9 " />
@@ -39,6 +39,19 @@
         </div>
         
     </div>
+    <div class="mr-2 ml-2 pb-20" >
+        <div class="pt-24 flex justify-between ">
+            <p class=" text-lg  ">Services</p>
+            <img src="../new_incons/svgexport-11.png" class="h-14">     
+        </div>
+        <p class=" text-left text-4xl font-semibold">Lets Create together <span class="block">with the quality our team creates</span></p>
+        <div  class="w-[300px]  inline-flex  mt-10  mb-10   ">                
+                <p class="rounded-full py-2 px-5 text-center text-xs font-medium bg-black text-white ">Dive into our services</p>     
+                <img src="../new_incons/svgexport-23.png" alt="" class="rounded-full  p-3 w-10 bg-black" >    
+        </div>
+    </div>
+
+
 </template>
 <script setup>
 </script>
