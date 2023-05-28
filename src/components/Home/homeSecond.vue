@@ -1,12 +1,12 @@
 <template>
-    <main class="ml-8 mr-8 h-full">
+        <main class="ml-8 mr-8 h-full">
         <div class=" text-4xl font-bold  mt-14 mb-5 ">
             Technology leaders through cutting-edge solutions.
         </div>
         <p class=" mb-20">30+ years empowering business</p>
 
         <div class="flex justify-between items-center  h-60 mx-auto  p-0 mb-8  ">
-            <p class="  mt-32  mb-5 bg-black w-[20px] rounded-full h-[70px] p-0 ">
+            <p class="  mt-32  mb-5 bg-black  rounded-full h-[70px] p-1 ">
                 <span class="text-white rotate-90 ">
                     <img src="../new_incons/svgexport-18.png" class="ml-1 mt-2 p-0  h-12"  alt="no img"> 
                 </span>
@@ -29,14 +29,14 @@
                 digital craftsmanship.
             </p>
         </div>
-        <div  class="w-[300px]  inline-flex  mt-10  mb-24   ">                
+        <div  class="  inline-flex  mt-10  mb-24   ">                
                 <p class="rounded-full py-2 px-5 text-center  text-gray-900 text-xs font-extrabold  " style="background:#ffff05;">Dive into our culture</p>     
-                <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  p-3 w-10" style="background:#ffff05;">    
+                <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  p-3 " style="background:#ffff05;">    
         </div>
     </main>
     <main class="  relative bg-gradient-to-br from-inherit text-white ">
         <img src="../icons/pocketad.io_home_image1.png" class=" absolute h-full object-cover mix-blend-overlay "/>
-        <div class="w-full h-full " >
+        <div class=" h-full " >
 
             <p class=" text-xl mb-2  h-28 pt-20 ml-8  "> Fields of expertise</p>
             <p class=" text-6xl pl-3 mt-10 text-white font-bold">Innovation </p>
@@ -55,7 +55,7 @@
                 They aren't produced by coincidence, nor are the offspring of ingenuity. Solutions that matter are the culmination of a refined  process of conception, maturation and execution. 
             </p>
 
-            <div  class="w-[300px]  inline-flex  mt-10  mb-10  ml-14 mr-16  ">                
+            <div  class=" inline-flex  mt-10  mb-10  ml-14 mr-16  ">                
                 <p class="rounded-full py-2 px-5 text-center  bg-black  text-xs font-extrabold  " >What we do </p>     
                 <img src="../new_incons/svgexport-31.png" alt="" class="rounded-full bg-black p-3 w-10" >    
             </div>
