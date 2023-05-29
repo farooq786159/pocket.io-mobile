@@ -5,7 +5,7 @@
 <RouterView>
 
 <footer class=" relative     ">
-     <img src="../icons/PocketAd.io_Gradient_Footer.png" alt="" class=" absolute mix-blend-overlay sm:mix-blend-overlay    h-full" >
+     <img src="../icons/pocketad.io_home_gradient_footer_mobile version.png" alt="" class=" w-full absolute mix-blend-overlay sm:mix-blend-overlay    h-full" >
     <section class="pl-20 pr-20 ">
 
         <article class="flex justify-between  pt-20  pb-10">

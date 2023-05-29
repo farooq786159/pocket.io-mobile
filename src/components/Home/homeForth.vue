@@ -15,12 +15,12 @@
             </div>
         </div>
         <div class="flex justify-between ml-2 mr-2">
-            <p class=" text-3xl ">How we think</p>
+            <p class=" text-lg ">How we think</p>
             <img src="../new_incons/svgexport-22.png" alt="" class="w-14">
         </div>
         <div class="ml-2 mr-2"> 
-            <p class=" text-4xl font-bold">We use Design to challenge the world around us </p>
-            <p class=" mt-10 mr-3 ml-2  text-4xl font-bold text-slate-400"> Our methodology goes beyond mere data analysis and visualization; we delve deep into the intricacies of your data ecosystem to unearth the hidden insights that drive value for your organization. By unraveling the complexities of your data infrastructure, we empower your business to harness the untapped potential and unlock meaningful outcomes for your stakeholders. </p>
+            <p class=" text-2xl font-bold">We use Design to challenge the world around us </p>
+            <p class=" mt-10 mr-3 ml-2  font-medium text-slate-400"> Our methodology goes beyond mere data analysis and visualization; we delve deep into the intricacies of your data ecosystem to unearth the hidden insights that drive value for your organization. By unraveling the complexities of your data infrastructure, we empower your business to harness the untapped potential and unlock meaningful outcomes for your stakeholders. </p>
         </div>
         <div  class="w-[300px]  inline-flex  mt-10  mb-24 ml-2   ">                
                 <p class="rounded-full py-2 px-5 text-center  text-gray-900 text-xs font-extrabold  " style="background:#ffff05;">Dive into our culture</p>     

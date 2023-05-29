@@ -6,9 +6,9 @@
         <p class=" mb-20">30+ years empowering business</p>
 
         <div class="flex justify-between items-center  h-60 mx-auto  p-0 mb-8  ">
-            <p class="  mt-32  mb-5 bg-black  rounded-full h-[70px] p-1 ">
+            <p class="  mt-32  mb-5 bg-black  rounded-full h-[70px] px-2 ">
                 <span class="text-white rotate-90 ">
-                    <img src="../new_incons/svgexport-18.png" class="ml-1 mt-2 p-0  h-12"  alt="no img"> 
+                    <img src="../new_incons/svgexport-18.png" class=" mt-2 text-center h-12"  alt="no img"> 
                 </span>
             </p>             
         </div>
@@ -35,7 +35,7 @@
         </div>
     </main>
     <main class="  relative bg-gradient-to-br from-inherit text-white ">
-        <img src="../icons/pocketad.io_home_image1.png" class=" absolute h-full object-cover mix-blend-overlay "/>
+        <img src="../icons/pocketad.io_home_image1_mobile version.png" class=" absolute w-full h-full object-cover mix-blend-overlay  "/>
         <div class=" h-full " >
 
             <p class=" text-xl mb-2  h-28 pt-20 ml-8  "> Fields of expertise</p>
