@@ -35,8 +35,8 @@
         </div>
     </main>
     <main class="  relative bg-gradient-to-br from-inherit text-white ">
-        <img src="../icons/pocketad.io_home_image1_mobile version.png" class=" absolute w-full h-full object-cover mix-blend-overlay  "/>
-        <div class=" h-full " >
+        <img src="../icons/pocketad.io_stoneMoble.version.png" class="h-full w-full absolute  mix-blend-overlay  "/>
+        <div class=" h-full  " >
 
             <p class=" text-xl mb-2  h-28 pt-20 ml-8  "> Fields of expertise</p>
             <p class=" text-6xl pl-3 mt-10 text-white font-bold">Innovation </p>
@@ -56,7 +56,7 @@
             </p>
 
             <div  class=" inline-flex  mt-10  mb-10  ml-14 mr-16  ">                
-                <p class="rounded-full py-2 px-5 text-center  bg-black  text-xs font-extrabold  " >What we do </p>     
+                <p class="rounded-full py-2 px-5 text-center  bg-black  text-xs font-medium  " >What we do </p>     
                 <img src="../new_incons/svgexport-31.png" alt="" class="rounded-full bg-black p-3 w-10" >    
             </div>
             <div class="mr-4 ml-4 border-slate-50  border-2 py-3 px-3">
