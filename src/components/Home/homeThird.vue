@@ -1,41 +1,41 @@
 <template>
-    <div  class="mt-10 mr-4 ml-4 py-3 px-3 text-lg">
-        <p >
+    <div  class="mt-10 mr-4 ml-4 py-3 px-3 ">
+        <p  class=' font-medium text-xl'>
                 Industries we know
         </p>
-        <p>
+        <p class='font-medium text-xl'>
             and understand
         </p>
-        <div class=" text-7xl font-bold">
+        <div class=" text-7xl mt-10 font-bold">
             <p>un <span class="block">paralleled</span></p>
         </div>
         <div class="flex justify-between  ">
-            <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  mt-96  rotate-90   bottom-0 px-3 py-3  " style="background:#ffff05;"/>
-            <img src="../icons/pocketad.io_home_image2_mobile.png" alt="no img" class="ml-0  mr-24 w-56  ">
+            <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  mt-96  rotate-90 w-52   bottom-0 p-5 " style="background:#ffff05;"/>
+            <img src="../icons/pocketad.io_home_image2_mobile.png" alt="no img" class="  w-72 bg ">
         </div>
-        <div class="mt-10 flex  ml-2 mr-2">
-            <img src="../new_incons/svgexport-21.png" alt="" class=" ">
-            <p class=" text-3xl pl-10 font-semibold">we know what <span class="block">we're doing</span> 
+        <div class="mt-10 flex  ">
+            <img src="../new_incons/svgexport-21.png" alt="" class="h-11 mt-5"  >
+            <p class=" text-3xl pl-5 font-semibold">we know what <span class="block">we're doing</span> 
             </p>
         </div>  
-        <div class="mr-2 ml-2 mt-10">
+        <div class="mr-2 ml-2 mt-10 ">
             <p class=" text-slate-500 ">We have spent +30 years creating and re-creating digital solutions, and learned what makes great businesses stay in business.</p>
         </div> 
-        <div class="mt-10  flex justify-between">
+        <div class="mt-28  flex justify-between">
             <p class=" font-bold text-3xl">Naranja X </p>
             <p class=" font-bold text-3xl">YPF </p>
         </div> 
-        <div class=" ml-2 mt-10">
+        <div class=" ml-2 mt-28">
             <p class=" text-lg">Within these 7 industries</p>
             <div class="border-slate-300 border-x-4 border-b-2 mt-5 mb-8">
-                <p class="mt-15 text-3xl font-semibold px-2 py-2">HealthCare</p>
+                <p class="mt-15 text-3xl font-semibold px-2 py-2 mb-14">HealthCare</p>
                 <p class="mt-10 px-2 py-2 mb-8  ">We strive to revolutionize the healthcare sector by leveraging cutting-edge technologies, empowering medical professionals, and enhancing patient experiences in unprecedented ways. Our mission is to redefine the boundaries of healthcare innovation, crafting transformative digital solutions that revolutionize the concept of wellness, improve medical outcomes, and optimize the utilization of leisure time for a healthier society.</p>
-                <div  class="w-[300px]  inline-flex  mt-10  mb-5 px-2 py-2  ">                
+                <div  class="w-[300px]  inline-flex  mt-5  mb-5 px-2 py-2  ">                
                     <p class="rounded-full py-2 px-5 text-center  text-gray-900 text-xs font-medium  " style="background:#ffff05;">Find out more</p>     
                     <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  p-3 w-10" style="background:#ffff05;">    
                 </div>
             </div>
-            <div class="border-slate-300 border-x-4 border-b-2 mt-5 mb-8">
+            <!-- <div class="border-slate-300 border-x-4 border-b-2 mt-5 mb-8">
                 <p class="mt-15 text-3xl font-semibold px-2 py-2">Automotive</p>
                 <p class="mt-10 px-2 py-2 mb-8  ">Consumers crave automotive innovation like never before, seeking seamless driving experiences, advanced connectivity, and enhanced safety features. They desire vehicles that effortlessly adapt to their individual preferences, all while maintaining impeccable quality. At our core, we empower automotive companies to transform themselves, ensuring they remain at the forefront of this rapidly evolving industry.</p>
                 <div  class="w-[300px]  inline-flex  mt-10  mb-5 px-2 py-2  ">                
@@ -82,16 +82,22 @@
                     <p class="rounded-full py-2 px-5 text-center  text-gray-900 text-xs font-medium  " style="background:#ffff05;">Find out more</p>     
                     <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  p-3 w-10" style="background:#ffff05;">    
                 </div>
-            </div>
-            <div class="flex justify-center mt-10">
-                    <img src="../new_incons/svgexport-31.png" alt="" class="rounded-full bg-black p-3 w-10 rotate-180" >   
-                    <p class=" text-slate-600 ml-9">1/7</p>
-                    <img src="../new_incons/svgexport-31.png" alt="" class="rounded-full bg-black p-3 w-10 ml-9 " />
+            </div> -->
+            <div class="flex  mt-10">
+                    
+                    <div class='rounded-full bg-black  h-14  w-14 ml-9 '>
+                        <img src="../new_incons/svgexport-31.png" alt="" class=" mt-4 ml-4  rotate-180" />
+                    </div>
+                    <p class=" text-slate-500 text-lg ml-9 mt-3">1/7</p>
+                    <div class='rounded-full bg-black  h-14  w-14 ml-9 '>
+                        <img src="../new_incons/svgexport-31.png" alt="" class=" mt-4 ml-4 " />
+                    </div>
             </div>
             
         </div>
     </div>
     
 </template>
-<script setup>
+<script >
+
 </script>

@@ -7,10 +7,18 @@ import Footer from "../components/menu/footer.vue"
 </script>
 
 <template> 
-<div class="sm:text-center">    
+    <!-- <link href="https://fonts.cdnfonts.com/css/avenir" rel="stylesheet"/> -->
+<div class="sm:text-center myFont">    
     <Nav/>
     <aboutLanding/>
     <AboutSecondaryPage/>
     <Footer/>
 </div>
 </template>
+<style>
+font-face {
+font-family: myFont;
+ 
+    src: href="https://fonts.cdnfonts.com/css/avenir";
+}
+</style>

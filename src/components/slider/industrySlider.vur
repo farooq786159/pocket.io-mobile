@@ -1,0 +1,16 @@
+<template>
+    <div class='slide' >
+        
+    </div>
+</template>
+<script>
+data(){
+    return{}
+},
+props:{
+    slide:['slide']
+}
+</script>
+
+<style scoped>
+</style>
