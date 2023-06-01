@@ -9,7 +9,7 @@
             <div class="text-[10px]  col-span-2 mt-6 font-semibold"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem voluptate odit fugiat modi, vitae
                 nulla   <span class="block">Lorem ipsum dolor sit amet consectetur 
                     adipisicing elit. Harum, est? Eveniet fugiat 
-                    labore facilis modi optio beatae sit, totam perferendis?</span>
+                    labore facilis modi optio beatae sit, totam perferendis?farooq</span>
             </div>
             <div class="">
                 <p class=" font-semibold text-9xl  inline-block align-text-top pl-10">team</p>

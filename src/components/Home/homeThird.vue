@@ -134,6 +134,7 @@ export default {
 }
 .right-button:hover{
   background:#ffff05;
+  
 }
 .slider-button {
   position: absolute;
