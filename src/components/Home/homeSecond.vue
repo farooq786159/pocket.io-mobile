@@ -27,8 +27,8 @@
             </p>
         </div>
         <div  class="  inline-flex  mt-10  mb-24   ">                
-                <p class="rounded-full py-2 px-5 text-center  text-gray-900 text-xs font-extrabold  " style="background:#ffff05;">Dive into our culture</p>     
-                <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  p-3 " style="background:#ffff05;">    
+                <p class="rounded-full py-3 px-5 text-center  text-gray-900 text-xs font-extrabold  " style="background:#ffff05;">Dive into our culture</p>     
+                <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  py-3 px-3 " style="background:#ffff05;">    
         </div>
     </main>
     <main class="  relative bg-gradient-to-br from-inherit text-white ">
@@ -53,33 +53,33 @@
             </p>
 
             <div  class=" inline-flex  mt-10  mb-10  ml-14 mr-16  ">                
-                <p class="rounded-full py-2 px-5 text-center  bg-black  text-xs font-medium  " >What we do </p>     
+                <p class="rounded-full py-3 px-5 text-center  bg-black  text-xs font-medium  " >What we do </p>     
                 <img src="../new_incons/svgexport-31.png" alt="" class="rounded-full bg-black p-3 w-10" >    
             </div>
             <div class="mr-4 ml-4 mt-10 border-slate-50  border-2 py-3 px-3">
                 <p class=" text-3xl font-bold mb-40">Branding & Strategy</p>
                 <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full   bg-slate-300 p-3 w-10" > 
-                <p class="mt-3 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+                <p class="mt-3 ">We devise the optimal processes and techniques to augment innovation labs and digital product revelations.</p>
             </div>
             <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
                 <p class=" text-3xl font-bold mb-36">Traffic Generation</p>
                 <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full   bg-slate-300 p-3 w-10" > 
-                <p class="mt-3 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+                <p class="mt-3 ">We have expanded our services to include comprehensive traffic generation strategies designed to skyrocket your digital presence and attract high-quality leads.</p>
             </div>
             <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
                 <p class=" text-3xl font-bold  mb-36">Engagement</p>
                 <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-300 p-3 w-10" > 
-                <p class="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+                <p class="mt-3">We firmly believe that engagement is the key to unlocking the full potential of innovation labs and digital product discoveries.</p>
             </div>
             <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
                 <p class=" text-3xl font-bold  mb-36">Video Views</p>
                 <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-300 p-3 w-10" > 
-                <p class="mt-3 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+                <p class="mt-3 ">We understand the significance of video views in driving brand recognition, expanding reach, and fostering meaningful connections with your target market.</p>
             </div>
             <div class="mr-4 ml-4 border-slate-50   border-2 py-3 px-3">
                 <p class=" text-3xl font-bold  mb-36">Lead Generation</p>
                 <img src="../new_incons/svgexport-20.png" alt="" class="mt-16 rounded-full  bg-slate-300 p-3 w-10" > 
-                <p class="mt-3 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero enim saepe totam animi quis praesentium neque, deserunt aspernatur voluptas, sed numquam quidem nemo ex.</p>
+                <p class="mt-3 ">We have honed our expertise in developing strategic processes and methodologies specifically designed to supercharge your lead generation efforts.</p>
             </div>
 
         </div>

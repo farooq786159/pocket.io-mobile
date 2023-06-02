@@ -3,6 +3,7 @@
 import Nav from "../components/menu/Nav.vue"
 import aboutLanding from "../components/About/AboutLandingPage.vue"
 import AboutSecondaryPage from "../components/About/aboutSecondPage.vue";
+import AboutLeadership from "../components/About/AboutLeadership.vue";
 import Footer from "../components/menu/footer.vue"
 </script>
 
@@ -12,6 +13,7 @@ import Footer from "../components/menu/footer.vue"
     <Nav/>
     <aboutLanding/>
     <AboutSecondaryPage/>
+    <AboutLeadership/>
     <Footer/>
 </div>
 </template>

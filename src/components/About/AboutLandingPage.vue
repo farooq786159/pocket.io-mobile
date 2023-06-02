@@ -4,7 +4,7 @@
 
 <template>
 
-    <main class=" bg-gray-100 ">
+    <main class=" bg-gray-100  h-full">
         <div  >
           
             <p class="ml-2 pt-2 pb-2  font-medium">About Us</p>
@@ -13,10 +13,12 @@
             <p class="text-[28px] ml-2 font-bold mr-10 text-gray-500 mb-20">
                 We engage disruptive  <span class='block '>innovation  in the space where business goals meet customer delight.</span>
             </p>
-            <p class='mt-60 ml-2 mr-2 text-lg text-gray-600 font-medium'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ullam,  <span  class='block mt-5'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut perspiciatis voluptates voluptatum ratione obcaecati quos nam quod amet modi quas in, debitis nisi unde laboriosam et nemo reiciendis nostrum eum tenetur omnis saepe eos qui! <span class='block mt-5 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil commodi iure totam itaque eveniet accusantium aspernatur tempora rerum, alias eius quod adipisci? Illo ipsam nostrum fugiat reprehenderit facere odit vel aperiam quasi magni, eligendi possimus error inventore minima et sit?</span></span></p>
+            <p class='mt-60 ml-5 mr-5 text-lg text-gray-600 font-medium'><span  class='block mt-5'>PocketAd is a digital media agency that operates on a global scale, founded in 2023, with our headquarters located in the United States.</span> <span class='block mt-5 '> With a combined extensive tenure of over three decades in digital marketing, we specialize in SEA and programmatic media, showcasing our expertise through the provision of customized solutions that cater to the unique requirements of each of our clients.</span> <span class='block mt-5'>Furthermore, PocketAd functions as a valuable user insight and business intelligence provider, procuring and analyzing third-party user data from various sources scattered throughout the internet. We uphold a steadfast commitment to maintaining the highest standards of quality and offer a diverse array of sophisticated tools and solutions to enable our clients to transmute their premium data into revenue.</span> </p>
 
             <div>
-                <img src="../icons/p.io_about_image1.jpg" class="half-image pb-20  rounded-s-full max-w-sm ml-16  w-80 mt-10 ">
+                <div class='pb-20 '>
+                    <img src="../icons/p.io_about_image1.jpg" class="half-image  rounded-s-full max-w-sm ml-16   w-80 mt-10 ">
+                </div>
             </div>
         </div>    
     </main>    

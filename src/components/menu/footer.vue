@@ -10,18 +10,18 @@
 
         <article class="flex justify-between  pt-20  pb-10">
             <div  class="   text-white  ">
-                <p class=" text-[22px] mb-5" >Keep in touch  </p>
+                <p class=" text-[22px] mb-5 ml-4" >Keep in touch  </p>
 
                 <div  class="pt-5">
-                    <p class="mt-5 text-white font-bold text-[36px] tracking-wider w-52 leading-9 mb-5">Let's Start creating together </p>
+                    <p class="mt-5 text-white font-bold text-[36px] tracking-wider w-52 leading-9 mb-5 pl-4">Let's Start creating together </p>
                 </div>
-                    <div  class=" inline-flex  mb-5 mt-10">                
-                        <p class=" rounded-full px-6 pt-3 bg-gray-100 text-gray-800   text-sm font-bold">Drop us a line</p>     
+                    <div  class=" inline-flex  pl-4 mb-5 mt-10">                
+                        <p class=" rounded-full px-4 pt-3 bg-gray-100 text-gray-800   text-sm font-bold ">Drop us a line</p>     
                         <img src="../new_incons/svgexport-11.png" alt="" class=" z-10 rounded-full bg-gray-100 h-10  px-2 py-2 mt-1  ml-1">    
                     </div>
             </div>
         </article>
-        <div class=" flex  "> 
+        <div class=" flex pl-1  "> 
                 <img src="../new_incons/linkedin-white.png" class=" h-8  mr-1  ">
                 <img src="../new_incons/behance-white.png" class="  h-8  mr-1     " >
                 <img src="../new_incons/Instagram-white.png" class=" h-8 mr-1    ">
@@ -29,14 +29,14 @@
                 <img src="../new_incons/twitter-white.png" class="  h-8 mr-1    ">
         </div>
         <div class="flex justify-between mt-10">
-            <p class=" text-4xl text-white ">PocketAd</p>
-            <img src="../new_incons/svgexport-21.png" class="object-cover h-11   ">
+            <p class=" text-4xl text-white pl-4 ">PocketAd</p>
+            <img src="../new_incons/svgexport-21.png" class="object-cover h-11 mr-2   ">
         </div>
         <div class="mt-5">
             <ul class="flex items-center  mt-3 pb-10">
 
-                <div class="mr-5 mb-32">
-                    <li class=" outline outline-1 rounded-full"> 
+                <div class="mr-5 mb-32 pl-5">
+                    <li class=" outline outline-1 rounded-full "> 
                     <p class="  font-bold text-[16px]  py-1 flex justify-center  px-5 ">
                         ENG
                          <img src="../new_incons/down-arrow-svgrepo-com.png"  class="mt-2 ml-4 h-2  inline-flex rotate-180 " >
@@ -44,10 +44,10 @@
                 </li>
                 </div>
                 <div class="mt-5 mr-24 ml-7 ">
-                    <li class=" text-[14px] pl-3 pb-2 "> term & condition</li>
-                    <li class=" text-[14px] pl-3  pb-2"> privacy</li>
+                    <li class=" text-[14px] pl-3 pb-2 "> Term & Condition</li>
+                    <li class=" text-[14px] pl-3  pb-2"> Privacy</li>
                     <li class=" text-[14px] pl-3 mb-2"> Cookies Policy</li>
-                    <li class=" text-[14px] pl-3 ml-16 w-40 text-slate-800 mt-10  "> 2007-2023 - All rights reserved</li>
+                    <li class=" text-[14px] pl-3 ml-9 w-40 text-slate-800 mt-10  "> 2007-2023 - All rights reserved</li>
                 </div>
             </ul>
         </div>

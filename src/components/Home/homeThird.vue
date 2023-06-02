@@ -37,7 +37,7 @@
                             <p class="mt-10 text-3xl font-semibold px-2  ">{{item.title}}</p>
                             <p class="mt-5 px-2    ">{{item.description}}</p>
                             <div  class="w-[300px]  inline-flex  mt-5  mb-5 px-2 py-2  ">                
-                              <p class="rounded-full py-2 px-5 text-center  text-gray-900 text-xs font-medium  " style="background:#ffff05;">Find out more</p>     
+                              <p class="rounded-full py-3 px-5 text-center  text-gray-900 text-xs font-medium  " style="background:#ffff05;">Find out more</p>     
                               <img src="../new_incons/svgexport-20.png" alt="" class="rounded-full  p-3 w-10" style="background:#ffff05;">    
                           </div>
                         </div>
