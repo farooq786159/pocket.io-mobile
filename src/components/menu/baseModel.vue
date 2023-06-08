@@ -9,7 +9,7 @@
               <button  @click="$emit('close-model')" 
                 class='py-2 w-full flex justify-end '>
                   <span></span> 
-                  <img src="../new_incons/svgexport-13 (1).svg" alt="" class=' p-3 mr-5   mt-5 rounded-full bg-secondary'>
+                  <img src="../new_incons/svgexport-100.svg" alt="" class=' p-3 mr-5   mt-5 rounded-full bg-secondary'>
               </button>
               <slot/>
               
