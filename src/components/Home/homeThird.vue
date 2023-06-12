@@ -45,11 +45,11 @@
                     
                 
                 <div class="flex   place-content-center  mb-10">   
-                        <button class='rounded-full  bg-black  h-10  w-10  ml-5 left-button    ' @click="slideLeft">
+                        <button class='rounded-full  bg-black  h-10  w-10  ml-5   hover:bg-slate-500    ' @click="slideLeft">
                             <img src="../new_incons/svgexport-31.png" alt="" class=" mt-4 ml-3 w-4 mb-4  rotate-180" />
                         </button>
                     <p class=" text-slate-500 text-lg ml-4 mt-3">{{currentIndex+1}}/7</p>
-                        <button class='rounded-full bg-black  h-10  w-10  ml-5 right-button  ' @click="slideRight">
+                        <button class='rounded-full bg-black  h-10  w-10  ml-5  hover:bg-slate-500  ' @click="slideRight">
                             <img src="../new_incons/svgexport-31.png" alt="" class=" mt-4 ml-3 w-4 mb-4  " />
                         </button>
                 </div>
@@ -129,13 +129,7 @@ export default {
 .slider-item {
   flex: 0 0 100%;
 }
-.left-button:hover{
-  background:#ffff05;
-}
-.right-button:hover{
-  background:#ffff05;
-  
-}
+
 .slider-button {
   position: absolute;
   transform: translateY(-50%);
